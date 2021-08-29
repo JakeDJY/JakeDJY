@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @JakeDJY
-- 👀 I’m interested in Drawing, interviewing, Writing, and Code
-- 🌱 I’m currently learning Code and art
-- 💞️ I’m not currently looking to collaborate on
+Hello, there my name is Jacob My interests include but are not limited to Art, Code, Writing, and Interviewing. I will put most of the code from my learning jouney here for me to look back on. I plan on making basic applications and eventually games.
 
 
 <!---
